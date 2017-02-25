@@ -1,4 +1,4 @@
-#  ~~ Let's ditch visual design tools ~~ Let's validate with code
+#  ~~Let's ditch visual design tools~~ Let's validate with code
 
 ## Wow, why? What happened?
 As a student working as a front-end developer I've run into a particularly annoying scenario when creating an app from a visual design. A ux-designer spend a good few weeks on creating the correct user-flow, feedback for the user, necessary pages and elements, icons, you get the idea. It was great to have all of these things figured out before i started coding. The design made sense and the overall flow of the app was clear.
