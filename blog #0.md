@@ -13,7 +13,7 @@ Correct. Maybe the statement in this title isn't correct (but it surely grabs a 
 
 > 'Photoshop and Sketch are great tools, but you make assumptions.' - *Stephen Hay, 2017*
 
-In the case mentioned previously the problem could easily be resolved by making a small working prototype based on the real dataset. The dataset, being a nice JSON file, could easily be loaded into the prototype and used to render out components. If this was done, the ux-designer would have spotted and resolved the problem immediately. Instead, I had to make design decisions. You could image what could have happened if a developer without visual and ux-design skills was tasked to do this.
+In the case mentioned previously the problem could easily be resolved by making a small working prototype based on the real dataset. The dataset, being a nice JSON file, could easily be loaded into the prototype and used to render out components. If this was done, the ux-designer would have spotted and resolved the problem immediately. Instead, I had to make design decisions. You can imagine what could have happened if a developer without visual and ux-design skills was tasked to do this.
 
 ## So, that's all?
 No, it's not. The next example is a mistake I made while designing a client's website. During my studies and work I manage to squeeze in some time in the weekend to do freelance work. I made a design with a nice page-wide video banner. Because the page wouldn't have much content in the form of text I showed what the client stood for in the form of images. It was a visually stunning website and the client was content with the design. 
