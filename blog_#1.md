@@ -5,15 +5,15 @@ This one of the discussions that I often see. I mostly work with React nowadays 
 	<form method='POST' action='/upload'>
 		<label>
 			Full name *
-			<input type='text' name='fullname' required='true'>
+			<input type='text' name='fullname' required='true' />
 		</label>
 		<label>
 			Email address *
-			<input type='email' name='email' required='true'>
+			<input type='email' name='email' required='true' />
 		</label>
 		<label>
 			Date of birth *
-			<input type='date' name='dateofbirth' required='true'>
+			<input type='date' name='dateofbirth' required='true' />
 		</label>
 		<button type='submit' name='submit'>Send!</button>
 	</form>
