@@ -1,7 +1,7 @@
 # To framework or not to framework?
 
 This one of the discussions that I often see. I mostly work with React nowadays as my front-end framework. I'm a big fan of using React to create single page applications. But, I often find myself doing weird things to replicate functionality in HTML though.
-
+```html
 	<form method='POST' action='/upload'>
 		<label>
 			Full name *
@@ -17,7 +17,7 @@ This one of the discussions that I often see. I mostly work with React nowadays 
 		</label>
 		<button type='submit' name='submit'>Send!</button>
 	</form>
-
+```
 Forms are a perfect example of these things. Imagine a simple HTML form like the one above in a Node.js application. It will surprise you how many functionality this form has without Javascript not even taken CSS form validation in account. All I have to do is make a is handle the POST and I'm done. The a submit event is triggered by the submit button, the inputs will be validated and values will be passed along.
 
 Imagine building this form in a framework like React. If I truly want this application to be single paged I will handle this form POST without actually posting.
