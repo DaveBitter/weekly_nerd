@@ -4,19 +4,19 @@ This one of the discussions that I often see. I mostly work with React nowadays 
 
 ```html
 <form method='POST' action='/upload'>
-	<label>
-		Full name *
-		<input type='text' name='fullname' required='true' />
-	</label>
-	<label>
-		Email address *
-		<input type='email' name='email' required='true' />
-	</label>
-	<label>
-		Date of birth *
-		<input type='date' name='dateofbirth' required='true' />
-	</label>
-	<button type='submit' name='submit'>Send!</button>
+  <label>
+    Full name *
+    <input type='text' name='fullname' required='true' />
+  </label>
+  <label>
+    Email address *
+    <input type='email' name='email' required='true' />
+  </label>
+  <label>
+    Date of birth *
+    <input type='date' name='dateofbirth' required='true' />
+  </label>
+  <button type='submit' name='submit'>Send!</button>
 </form>
 ```
 Forms are a perfect example of these things. Imagine a simple HTML form like the one above in a Node.js application. It will surprise you how many functionality this form has without Javascript not even taken CSS form validation in account. All I have to do is make a is handle the POST and I'm done. The a submit event is triggered by the submit button, the inputs will be validated and values will be passed along.
