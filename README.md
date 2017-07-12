@@ -14,7 +14,7 @@ In this repository you can find **5 blogs** and one **extra blog** about my view
 You can find my notes [here](assets/notes.pdf).
 
 ## Special thanks
-Since this concludes the minor webdevelopment I would like to give a special thanks. No, this isn't to give me a good grade ;). I really appreciate all the time and energy the tutors and people who gave talks. I never felt like we were students, but more like fellow developers trying to help each other. Same goes for my fellow students. We made better developers out of ourselves and each other. I hope to work together again one day, whether it be a school project or in the field. Cheers.
+Since this concludes the minor webdevelopment I would like to give a special thanks. No, this isn't to give me a good grade ;). I really appreciate all the time and energy the tutors and people who gave talks put in to make us better developers. I never felt like we were students, but more like fellow developers trying to help each other. Same goes for my fellow students. We made better developers out of ourselves and each other. I hope to work together again one day, whether it be a school project or in the field. Cheers.
 
 ## Note
 All images used in this repository are free to use.
