@@ -9,7 +9,7 @@ In this repository you can find **5 blogs** and one **extra blog** about my view
 * [Sketchnoting, not this again](blog_%232.md)
 * [Google's Firebase and why you should check it out](blog_%233.md)
 * [Front-end development and Internet Of Things](blog_%234.md)
-* [Why should you follow the minor web development (extra blog)](blog_%235.md)
+* [Why should you follow the minor web development **(extra blog)**](blog_%235.md)
 
 You can find my notes [here](assets/notes.pdf).
 
