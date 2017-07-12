@@ -1,4 +1,6 @@
 # Front-end development and Internet Of Things
+![internet of things](assets/hero_4.png)
+
 During The course Web of Things at the minor webdevelopment at the study [Communication and Multimedia design](https://www.cmd-amsterdam.nl/english/), or CMD, at [the Amsterdam University of Applied Sciences](http://www.amsterdamuas.com/) we discussed why we should learn this. Sure it's fun to work with, but why should this be one of the six course part of this minor?
 
 During a talk [Niels Leenheer](https://www.nielsleenheer.nl/) told us about a one of his creations he build. I could easily replace his creation by a small webapplication. I asked him why I shouldn't just make that instead. Saves time, money and hassle. His response was that it this was cooler. It was fun and creative. I agreed, but then I started thinking. When we talk about Internet of Things we often talk about making cool creations with sensors for in example your home or in the office. Then it hit me. I've been working with the Internet of Things for over a year.

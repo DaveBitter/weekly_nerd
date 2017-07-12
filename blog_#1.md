@@ -1,4 +1,5 @@
 # To framework or not to framework?
+![datepicker](assets/hero_1.jpg)
 
 This one of the discussions that I often see. I mostly work with React nowadays as my front-end framework. I'm a big fan of using React to create single page applications. But, I often find myself doing weird things to replicate functionality in HTML though.
 

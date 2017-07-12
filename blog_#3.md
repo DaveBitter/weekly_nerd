@@ -1,4 +1,6 @@
 # Google's Firebase and why you should check it out
+![google firebase](assets/hero_3.jpg)
+
 During a talk by [Q42](https://www.q42.nl/) by Guido Bouman [Firebase](https://firebase.google.com/) came up. I never heard of Firebase so I decided to see what it is and how I can make use of it.
 
 ## What does it do?

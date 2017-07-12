@@ -1,4 +1,6 @@
 # Sketchnoting, not this again
+![sketchnotes](assets/hero_2.jpg)
+
 That's what I thought just before the talk I visited about sketchnoting. For the past few years at my study [Communication and Multimedia Design](https://www.cmd-amsterdam.nl/english/) there has been a real fandom for sketchnoting. Sketchnoting is basically visual note taking. You can find examples of the most creative and artsy note taking you ever seen.
 
 For years I kept just making regular notes. You see, I was never a good writer or sketcher. At an age of about eight I had to take lessons because my handwriting was so poor that the teachers couldn't grade my tests. Writing and sketching take all of my concentration. So you could imagine that making those artsy sketchnotes was not going to happen for me.
