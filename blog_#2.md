@@ -18,3 +18,5 @@ This was something I could work with. All this time I was doing this but in a le
 Doing it like this works for me. It still takes a lot of concentration for me to take notes this way. But my writing the information in chunks and choosing the most information and making it big I have a solid base. It's like my HTML. I know I'm fine if I've got this part covered during a talk. I can then later add visual hierarchy, structure and visual hooks. That's like my CSS.
 
 You can view my results of the talk below.
+
+![sketchnotes talk results](assets/skethnote_talk_result.png)
