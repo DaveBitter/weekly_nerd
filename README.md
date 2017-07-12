@@ -4,11 +4,11 @@ Weekly nerd is a part of the minor webdevelopment at the study [Communication an
 ## Table of contents
 In this repository you can find 5 blogs about my view on the subjects being discussed. I tried to form an opinion on a subject and spark the conversation. Below, you can find links to the blogs.
 
-* [Let's ditch visual design tools](blog_#0.md)
-* [To framework or not to framework?](blog_#1.md)
-* [Sketchnoting, not this again](blog_#2.md)
-* [Google's Firebase and why you should check it out](blog_#3.md)
-* [Front-end development and Internet Of Things](blog_#4.md)
+* [Let's ditch visual design tools](blog_%230.md)
+* [To framework or not to framework?](blog_%231.md)
+* [Sketchnoting, not this again](blog_%232.md)
+* [Google's Firebase and why you should check it out](blog_%233.md)
+* [Front-end development and Internet Of Things](blog_%234.md)
 
 You can find my notes [here](assets/notes.pdf).
 
